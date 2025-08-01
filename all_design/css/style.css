@@ -1,0 +1,130 @@
+@font-face {
+    font-family: Cardo-Italic;
+    src: url(../Cardo/Cardo-Italic.ttf);
+}
+body p
+{color: #80858b;}
+/* header_start */
+.heds
+{padding: 20px 0; height: 80vh !important; background-image: url("../image/b_imag.png"); background-position: center; background-repeat: no-repeat; background-size: cover;}
+.menus ul li a
+{margin: 0 20px; color: white !important;}
+/* header_end */
+
+/* banner1_start */
+.b_banner
+{}
+.b_banner h2 {
+  
+}
+.cont_box1 h2
+{margin: 15% 15% 0; font-size: 65px; color: white;}
+.cont_box1 h4
+{margin: 20px 180px 70px; font-size: 22px; color: #ccc;}
+/* banner1_end */
+
+/* banner2_start */
+.banner_2
+{margin: 5% 0 0;}
+.banner_2 h3
+{margin: 40px 0 20px; font-size: 14px; font-weight: 700;}
+.banner_2 p
+{margin: 0 23px 0;}
+/* banner2_end */
+
+/* banner3_start */
+.box_wrraper
+{overflow: hidden; background-color: #2b2e4a;}
+.box1
+{position: relative; margin: 0 1px 0; float: left;}
+.m_box
+{margin-bottom: 10px;}
+.box_image
+{width: 100%;}
+.box_image img
+{width: 100%;}
+.oppacitor
+{position: absolute; width: 100%; height: 350px; background-color: rgb(218, 61, 61); opacity: 0; transition: 0.8s;}
+.oppacitor:hover
+{opacity: 0.8; transition: 0.8s;}
+.box_content
+{width: 100%; height: 182px; text-align: center; color: white; transition: 0.8s; font-weight: 700;}
+.box_content h3
+{margin-top: 28%;}
+.box_content p
+{margin: 0; font-weight: 300;}
+/* banner3_end */
+
+/* banner4_start */
+.box_wrrraper2
+{}
+.box2
+{}
+.box_image2
+{}
+.cont_box2
+{}
+.cont_box2 h3
+{margin: 30px 0 8px; font-size: 22px;}
+.cont_box2 h5
+{font-size: 13px; color: red;}
+.cont_box2 p
+{margin: 35px 15px 20px 0;}
+.link_box
+{background-color: none;}
+.menu2 ul li
+{margin: 0 10px 0 0; border: 1px solid #c6cacc;}
+.menu2 ul li a i
+{color: #c6cacc; font-size: 25px;}
+/* banner4_end */
+
+/* banner5_start */
+.image_box2
+{width: 953px;}
+.image_box2 img
+{width: 100%; height: 45vh;}
+.cont_box3
+{padding: 100px 0; background-color: #53354a;}
+.cont_box3 h3
+{margin: 0 40% 0 60px; font-size: 36px; font-family: Cardo-Italic; font-weight: 400; color: white;}
+.cont_box3 p
+{margin: 25px 60px; color: white;}
+
+.carousel-indicators [data-bs-target]
+{border-radius: 40px; width: 15px; height: 16px; border: 0;}
+/* banner5_end */
+
+/* banner6_start */
+.cont_box4 h3
+{margin: 0; font-size: 28px; font-weight: 300;}
+.cont_box4 p
+{margin: 10px 0 25px 0; font-size: 13px; color: black; font-weight: 400;}
+.cont_box4 button
+{padding: 10px 86px; font-weight: 700; background-color: #e84545; color: white; font-size: 15px; border: none;}
+.cont_box4 button h5
+{margin: 0; font-weight: 300; font-size: 13px;}
+/* banner6_end */
+
+/* banner7_start */
+.bag_col
+{background-color: #3a3e64;}
+.cont_box5
+{padding: 35px 0 100px;}
+.cont_box5 h3
+{color: white;}
+.cont_box5 p
+{margin: 0 135px 0; font-size: 13px;}
+.sp p
+{margin: 0 65px 0;}
+/* banner7_end */
+
+/* footer_start */
+.bag_col2
+{background-color: #313454}
+.cont_box6
+{padding: 30px 0;}
+.cont_box6 p
+{margin: 0 456px 0;}
+.cont_box6 p span
+{color: white;}
+/* footer_end */
